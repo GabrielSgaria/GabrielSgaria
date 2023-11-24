@@ -5,14 +5,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GabrielSgaria&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielsgaria"/> </p>
 
 - 🔭 Atualmente trabalho como suporte de T.I.
-- 💬 Pergunte-me sobre "HTML, CSS, React.js, Next.js, Typescript, Javascript e Node.js"
 - 🌱 Você pode encontrar todos os meus projetos em [Linkedin](www.linkedin.com/in/gabriel-sgaria)
+- 💬 Pergunte-me sobre "HTML, CSS, React.js, Next.js, Typescript, Javascript e Node.js"
 - 👨‍💻 Busco novas experências para ampliar meus conhecimentos
 - 📫 Entre em contato **gabriel_sgaria2@outlook.com** ou +55 (041) 99537-3052
 
  
-![Gabriel Sgaria GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=blue_navy)
-
+![Gabriel Sgaria GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielSgaria&show_icons=true&theme=blue_navy)
 <h3 align="center">Linguagens:</h3>
 <p align="center"> 
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -25,7 +24,5 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielSgaria&show_icons=true&locale=en&theme=blue_navy" alt="GabrielSgaria" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielSgaria&show_icons=true&locale=en&theme=blue_navy" alt="GabrielSgaria" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielSgaria&theme=blue_navy" alt="GabrielSgaria" /></p>
