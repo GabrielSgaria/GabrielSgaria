@@ -1,5 +1,6 @@
-### Hi there 👋
+<h1 align="center">Olá👋, eu sou o Gabriel Sgaria</h1>
 
+<h2 align="center">Um desenvolvedor dedicado!</h2>
 <!--
 **GabrielSgaria/GabrielSgaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Gabriel Sgaria GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=blue_navy)
