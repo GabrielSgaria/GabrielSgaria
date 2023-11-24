@@ -1,7 +1,7 @@
 
 <h1 align="center">Olá👋, eu sou Gabriel Sgaria</h1>
 
-<h3 align="center">Um dev dedicado!</h2>
+<h3 align="center">Desenvolvedor Front-end</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GabrielSgaria&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielsgaria"/> </p>
 
 - 🔭 Atualmente trabalho como suporte de T.I.
