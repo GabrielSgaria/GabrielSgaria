@@ -10,8 +10,6 @@
 - 👨‍💻 Busco novas experências para ampliar meus conhecimentos
 - 📫 Entre em contato **gabriel_sgaria2@outlook.com** ou +55 (041) 99537-3052
 
- 
-![Gabriel Sgaria GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielSgaria&show_icons=true&theme=blue_navy)
 <h3 align="center">Linguagens:</h3>
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -20,9 +18,10 @@
   <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img align="center" alt="nextjs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/> 
+
+![Gabriel Sgaria GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielSgaria&show_icons=true&theme=blue_navy)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielSgaria&show_icons=true&locale=en&theme=blue_navy&layout=pie" alt="GabrielSgaria" /></p>
 
