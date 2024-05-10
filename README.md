@@ -6,7 +6,7 @@
 
 - 🔭 Atualmente trabalho como suporte de T.I e DEV freelancer.
 - 🌱 Você pode encontrar todos os meus projetos em [Linkedin](www.linkedin.com/in/gabriel-sgaria)
-- 💬 Pergunte-me sobre "HTML, CSS, React.js, Next.js, Typescript e Javascript"
+- 💬 Pergunte-me sobre "React.js, Next.js, Typescript e Javascript"
 - 👨‍💻 Busco novas experências para ampliar meus conhecimentos
 - 📫 Entre em contato **gabriel_sgaria2@outlook.com** ou +55 (041) 99537-3052
 
