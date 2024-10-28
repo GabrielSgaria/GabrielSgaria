@@ -4,8 +4,8 @@
 <h3 align="center">Desenvolvedor Front-end</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GabrielSgaria&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielsgaria"/> </p>
 
-- 🔭 Atualmente trabalho como suporte de T.I e DEV freelancer.
-- 🌱 Você pode encontrar todos os meus projetos em [Linkedin](www.linkedin.com/in/gabriel-sgaria)
+- 🔭 Atualmente sou DEV fullstack na minha propria empresa Tech.
+- 🌱 Você pode encontrar todos os meus projetos em [sgariatech](www.sgariatech.com.br)
 - 💬 Pergunte-me sobre "React.js, Next.js, Typescript e Javascript"
 - 👨‍💻 Busco novas experências para ampliar meus conhecimentos
 - 📫 Entre em contato **gabriel_sgaria2@outlook.com** ou +55 (041) 99537-3052
